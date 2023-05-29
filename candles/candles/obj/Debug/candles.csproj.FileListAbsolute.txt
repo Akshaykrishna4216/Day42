@@ -1,0 +1,8 @@
+D:\UST\Day42\candles\candles\bin\Debug\candles.exe.config
+D:\UST\Day42\candles\candles\bin\Debug\candles.exe
+D:\UST\Day42\candles\candles\bin\Debug\candles.pdb
+D:\UST\Day42\candles\candles\obj\Debug\candles.csproj.AssemblyReference.cache
+D:\UST\Day42\candles\candles\obj\Debug\candles.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day42\candles\candles\obj\Debug\candles.csproj.CoreCompileInputs.cache
+D:\UST\Day42\candles\candles\obj\Debug\candles.exe
+D:\UST\Day42\candles\candles\obj\Debug\candles.pdb
